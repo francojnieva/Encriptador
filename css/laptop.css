@@ -1,0 +1,31 @@
+@media screen and (min-width: 1024px) {
+    main {
+        display: flex;
+        flex-direction: row;
+        min-height: calc(100vh - 101px - 64px);
+    }
+
+    .seccion1 {
+        width: 60%; 
+        height: 60vh;
+    }
+
+    .seccion2 {
+        width: 30%;
+        height: 60vh;
+    }
+
+    .seccion2 img {
+        display:inherit
+    }
+
+    .seccion2 figcaption {
+        text-align: center;
+        margin-top: 1em;
+    }
+
+    .seccion2  .resultado {
+        padding-top: 2em;
+        height: 37.5vh;
+    }
+}   
