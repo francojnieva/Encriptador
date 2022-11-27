@@ -4,8 +4,8 @@ Proyecto que formó parte de uno de los Challenge propuestos en el Programa ONE 
 ## Autor
 **Franco Javier Nieva**
 * [LinkedIn](https://www.linkedin.com/in/francojnieva/)
-* [Instagram]()
+* [Instagram](https://www.instagram.com/franconieva.97)
 * franco97nieva@gmail.com
 
 ## Ver ejemplo 
-[https://francojnieva.github.io/Encriptador/](https://francojnieva.github.io/Encriptador/)
+* []()
